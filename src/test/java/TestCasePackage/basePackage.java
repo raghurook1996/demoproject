@@ -6,6 +6,9 @@ public class basePackage {
 		
 		System.out.println("Hello");
 		System.out.println("Hello");
+		System.out.println("Hi hello");
+		System.out.println("Hi hello");
+		System.out.println("Hi hello");
 
 	}
 
